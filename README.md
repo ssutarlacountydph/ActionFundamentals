@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals
+# GitHub Actions Fundamentals 8/18/2025
 
 Repo for the `GitHub Actions Fundamentals` training.
 
